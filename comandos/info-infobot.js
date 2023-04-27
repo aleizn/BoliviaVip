@@ -40,7 +40,7 @@ let info = `
 ╠➢ [👨‍🦯] *VELOCIDAD*: 
 ╠  *${speed} ms* 
 ╠
-╠═〘 𝐆𝐞𝐫𝐚𝐥 𝐁𝐨𝐭 〙 ═
+╠═〘 𝐁𝐎𝐋𝐈𝐕𝐈𝐀 𝐕𝐈𝐏 〙 ═
 `.trim() 
 conn.sendButton(m.chat, info, wm, pp, [
 ['📦 𝐆𝐑𝐔𝐏𝐎𝐒', '#grupos'],
